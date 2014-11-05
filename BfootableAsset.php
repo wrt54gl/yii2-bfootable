@@ -1,6 +1,6 @@
 <?php
 
-namespace wrt\bfootable;
+namespace yii\bfootable;
 
 use \Yii;
 

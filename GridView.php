@@ -1,5 +1,5 @@
 <?php
-namespace wrt\bfootable;
+namespace yii\bfootable;
 
 use yii\helpers\Json;
 use kartik\grid;
