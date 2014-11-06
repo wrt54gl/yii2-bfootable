@@ -4,12 +4,12 @@ namespace yii\bfootable;
 
 use \Yii;
 
-class FootableAsset extends \yii\web\AssetBundle
+class BfootableAsset extends \yii\web\AssetBundle
 {
     public $sourcePath = '@vendor';
 
     public $js = [
-        'fooplugins/footable/footable.js'
+        'fooplugins/footable/js/footable.js'
     ];
 
     public $css=[
